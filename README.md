@@ -1,3 +1,6 @@
+# Originally forked from Diolinux, Feel free to use to use/fork!
+#________VV_ORIGINAL_INSTRUCTIONS_VV________
+
 # Ubuntu autoinstall config file sample by Diolinux
 
 This is a sample file, it can be used as reference for your own installations. 
