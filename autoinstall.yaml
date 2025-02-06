@@ -10,7 +10,7 @@ autoinstall:
     keyboard:
         layout: br
     timezone: "America/Sao_Paulo"   
-    packages:
+    packages: # Some stuff as you can see :P
         - libreoffice
         - git
         - wget
