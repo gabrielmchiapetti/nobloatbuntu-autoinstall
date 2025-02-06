@@ -1,5 +1,5 @@
 # Originally forked from Diolinux, Feel free to use to use/fork!
-#________VV_ORIGINAL_INSTRUCTIONS_VV________
+# ________VV_ORIGINAL_INSTRUCTIONS_VV________
 
 # Ubuntu autoinstall config file sample by Diolinux
 
