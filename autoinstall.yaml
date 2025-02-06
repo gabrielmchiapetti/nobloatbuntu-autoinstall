@@ -18,6 +18,13 @@ autoinstall:
         - fastfetch
         - python
         - xorriso
+        - mkisoofs
+        - freesweep
+        - netsurf-gtk
+        - notepadqq
+        - blackbox-terminal
+        - htop
+        - cpu-x
         
     snaps:
         - name: spotify
